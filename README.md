@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Cancer Classification
 This notebook aims to classify breast tumors as benign or malignant using the Random Forest algorithm. The dataset used was obtained from Kaggle and contains information about characteristics of the scanned breast tissue of patients.
 
